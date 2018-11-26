@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=P2_Khot_Tanvi_Earth
+comment0.text=\n\ The\ world\ where\ creatures\ live.\n\ This\ world\ starts\ with\ a\ bear\ in\ the\ middle\ of\ the\ world.\n\ Every\ frame,\ it\ has\ a\ chance\ to\ add\ another\ creature\ or\ food.\n
+comment1.params=
+comment1.target=P2_Khot_Tanvi_Earth()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ This\ is\ called\ every\ frame.\ It\ has\ a\ chance\ to\ randomly\ spawns\ a\ pig,\ bear,\ or\ food.\n
+numComments=3

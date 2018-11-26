@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=P2_Khot_Tanvi_Food
+comment0.text=\n\ Subclasses\ of\ this\ class\ are\ considered\ food\ by\ and\ can\ be\ eaten\ by\ default.\n
+comment1.params=
+comment1.target=P2_Khot_Tanvi_Food()
+comment2.params=foodValue
+comment2.target=P2_Khot_Tanvi_Food(int)
+comment3.params=
+comment3.target=int\ getFoodValue()
+comment4.params=value
+comment4.target=void\ setFoodValue(int)
+numComments=5

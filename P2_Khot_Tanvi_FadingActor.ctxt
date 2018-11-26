@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=P2_Khot_Tanvi_FadingActor
+comment0.text=\n\ This\ class\ has\ an\ act\ method\ that\ causes\ the\ actor\ to\ become\ more\ transparent\ every\ frame,\n\ until\ it\ finally\ is\ removed\ when\ it\ is\ fully\ transparent.\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

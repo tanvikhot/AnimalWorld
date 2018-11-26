@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=P2_Khot_Tanvi_Bear
+comment0.text=\n\ Written\ by\ Tanvi\ Khot\ P2\n\ \n\ This\ lab\ was\ challenging\ at\ first\ to\ write\ because\n\ I\ hadn't\ worked\ with\ Greenfoot\ in\ a\ couple\ months,\n\ so\ I\ spent\ the\ first\ 30\ minutes\ finding\ my\ way\ around\n\ the\ program.\ After\ I\ had\ figured\ out\ what\ I\ was\ doing,\ \n\ the\ rest\ of\ the\ coding\ was\ not\ difficult.\n
+comment1.params=
+comment1.target=P2_Khot_Tanvi_Bear()
+comment1.text=\n\ Make\ a\ constructor\ that\ initializes\ speed\ to\ 5.\ To\ do\ this\ you\ will\ need\n\ to\ call\ the\ correct\ super\ constructor.\n
+comment2.params=
+comment2.target=void\ prepFood()
+comment2.text=\ override\ the\ prepFood()\ method\ so\ it\ gets\ an\ intersecting\ pig\ and\ kills\ it\ if\ there\ is\ one\n
+comment3.params=
+comment3.target=boolean\ canEat()
+comment3.text=\ Override\ canEat()\ so\ it\ will\ return\ true\ if\ the\ super\ class\ method\n\ would\ have\ returned\ true,\ but\ also\ returns\ true\ if\ touching\ a\ pig.\n\ Otherwise\ it\ should\ return\ false.\n
+comment4.params=
+comment4.target=void\ turn()
+comment4.text=\n\ Override\ the\ turn()\ method\ so\ that\ it\ will\ turn\ toward\ nearby\ pigs\ or\ food\n\ if\ the\ bear\ is\ hungry.\ Lets\ say\ nearby\ means\ within\ 100\ cells.\n\ If\ there\ are\ no\ pigs\ or\ food\ in\ range,\ this\ method\ should\ do\ the\ same\ as\ the\n\ super\ class\ method.\n
+comment5.params=x1\ y1\ x2\ y2
+comment5.target=double\ distance(double,\ double,\ double,\ double)
+comment6.params=
+comment6.target=void\ dropItems()
+comment6.text=\ override\ the\ dropItems()\ method\ so\ a\ DeadBear\ object\ is\ added\ to\ the\ world\ at\n\ the\ same\ location\ as\ this\ bear\n
+numComments=7

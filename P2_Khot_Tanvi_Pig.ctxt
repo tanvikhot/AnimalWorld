@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=P2_Khot_Tanvi_Pig
+comment0.text=\n\ Reflection\ in\ P2_Khot_Tanvi_Bear\ class\n
+comment1.params=
+comment1.target=void\ dropItems()
+comment1.text=\ override\ the\ dropItems()\ method\ so\ a\ Meat\ object\ is\ added\ to\ the\ world\ at\n\ the\ same\ location\ as\ this\ pig\n
+comment2.params=
+comment2.target=void\ turn()
+comment2.text=\n\ Override\ the\ turn()\ method\ so\ the\ pig\ will\ turn\ toward\ nearby\ berries\ (within\ 100\ cells)\n\ if\ hungry.\n\ \n
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=double\ distance(double,\ double,\ double,\ double)
+comment4.params=
+comment4.target=boolean\ isHungry()
+comment4.text=\n\ Override\ the\ isHungry()\ method\ to\ make\ the\ pig\ always\ hungry.\n
+numComments=5
